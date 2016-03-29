@@ -25,7 +25,7 @@ Grupa: 1220F
 |Susanu Marius |https://github.com/susanu||
 |Tila Simona|https://github.com/simonatila/ALF|https://github.com/simonatila/SE|
 |Tudor Georgiana|https://github.com/tudorgabriela/ALF|https://github.com/tudorgabriela/SE|
-|Ursachi Tudor|https://github.com/kylecrane||
+|Ursachi Tudor|https://github.com/KyleCrane/ALF | https://github.com/KyleCrane/SE
 |Varasteanu Marius|https://github.com/wreckerr/ALF|https://github.com/wreckerr/SDE|
 |Ndeme Fabrice|https://github.com/fabricelepapi||
 
